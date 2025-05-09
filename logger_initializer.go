@@ -1,4 +1,4 @@
-package cus_otel
+package otel
 
 import (
 	"fmt"
